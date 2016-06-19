@@ -1,6 +1,6 @@
 {
   "name": "koa-ctx-basic-auth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Augments Koa with ctx.basicAuth",
   "main": "lib",
   "scripts": {
