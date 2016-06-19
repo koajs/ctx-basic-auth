@@ -18,7 +18,7 @@ const app = new Koa()
 
 require('koa-ctx-basic-auth')(app)
 
-app.use(async (ctx, next) {
+app.use(async (ctx, next) => {
   const { name, pass } = ctx.basicAuth
   // OR
   const { name, pass } = ctx.request.basicAuth
