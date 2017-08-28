@@ -1,10 +1,9 @@
 # Koa Context Basic Auth
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/koajs/ctx-basic-auth.svg)](https://greenkeeper.io/)
-
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/koajs/ctx-basic-auth.svg)](https://greenkeeper.io/)
 [![Dependency Status][david-image]][david-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
