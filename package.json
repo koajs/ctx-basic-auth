@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": "koajs/ctx-basic-auth",
   "dependencies": {
-    "basic-auth": "^1.0.4"
+    "basic-auth": "^2.0.0"
   },
   "devDependencies": {
     "koa": "^2.0.0",
